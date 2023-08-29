@@ -1,9 +1,39 @@
-div{
-    color: white;
-    background-color: black;
+h1{
+    font-size: 30px;
 }
 
-p{
-    color: rgb(4, 0, 255);
-    background-color: black;
+h2{
+    font-weight: 700;
+    color: rgb(17, 0, 167);
 }
+
+.first{
+    color: rgba(0, 0, 255, 0.473);
+}
+
+.second{
+    color: rgba(0, 0, 255, 0.699);
+}
+
+.third{
+    color: blue;
+}
+
+.notLast{
+    color:rgb(175, 172, 0)
+}
+
+.firstList .last{
+    color: rgba(0, 0, 0, 0.466);
+}
+
+.secondList .last{
+    
+    color: rgba(0, 0, 0, 0.733);
+}
+
+.thirdList .last{
+    
+    color: rgb(0, 0, 0);
+}
+
